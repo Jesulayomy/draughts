@@ -1,4 +1,5 @@
-<h1 align="center"> Draughts(Draft/Checkers) </h1>
+<h1 align="center"> Draughts(Draft/Checkers) </h1>  
+
 ### Usage
 Compile main and functions with `gcc main.c functions.c -o checkers` Then run
 the executeable `bash ./checkers`
